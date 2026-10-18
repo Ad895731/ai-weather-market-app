@@ -75,7 +75,7 @@ We welcome contributions of all kinds, including bug reports, feature requests, 
 
 ## Code of Conduct
 
-We expect all contributors to adhere to the [Code of Conduct](CODE_OF_CONDUCT.md) to maintain a welcoming and inclusive environment. Please read it before contributing.
+We expect all contributors to adhere to the [Code of Conduct](../CODE_OF_CONDUCT.md) to maintain a welcoming and inclusive environment. Please read it before contributing.
 
 ---
 
